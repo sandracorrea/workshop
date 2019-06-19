@@ -1,3 +1,6 @@
 carrot
 lettuce
 eggplant
+onion
+vegetable1
+vegetable2
