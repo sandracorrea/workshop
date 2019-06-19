@@ -1,3 +1,6 @@
 carrot
 lettuce
 eggplant
+cucumber
+tomato
+celery
