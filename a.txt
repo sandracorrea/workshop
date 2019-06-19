@@ -4,3 +4,7 @@ eggplant
 cucumber
 tomato
 celery
+onion
+vegetable1
+vegetable2
+
